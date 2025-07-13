@@ -13,3 +13,36 @@ That’s all.
 
 windows defender
 https://youtu.be/QJolOqm3G1U?feature=shared
+
+
+
+#########Office
+
+https://www.youtube.com/watch?v=IWEdJdQ1bNs
+
+
+setup.exe /download configxml.xml
+setup.exe /configure configxml.xml
+
+
+cd\
+cd C:\Program Files\Microsoft Office\Office16
+cscript ospp.vbs /sethst:kms.03k.org
+cscript ospp.vbs /act
+irm https://massgrave.dev/get | iex
+
+
+#############disable windows defender
+https://www.youtube.com/watch?v=IWEdJdQ1bNs
+
+
+setup.exe /download configxml.xml
+setup.exe /configure configxml.xml
+
+
+cd\
+cd C:\Program Files\Microsoft Office\Office16
+cscript ospp.vbs /sethst:kms.03k.org
+cscript ospp.vbs /act
+
+
